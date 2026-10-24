@@ -4,10 +4,6 @@
 	"main": "./worker.ts",
 	"compatibility_date": "2026-05-20",
 	"keep_vars": true,
-	"vars": {
-		"VAPID_PUBLIC_KEY": "BFwiaTKem8nxW-LRyUynEFPNBV0KRzmNeZ_9Js80lm5hJ7YPxHM_kkRKWlMzNhRFJ6YmThDkwN-kIYgNioVjCOc",
-		"VAPID_SUBJECT": "https://mail.salsbury.org",
-	},
 	"compatibility_flags": [
 		"nodejs_compat",
 		"global_fetch_strictly_public"
